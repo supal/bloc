@@ -6,6 +6,8 @@
       "firstname.placeholder": "Your first name",
       "lastname": "Last Name",
       "lastname.placeholder": "Your last name",
+      "imageUrl": "Image",
+      "imageUrl.placeholder": "Your image url",
       "language": "Language",
       "button": "Save"
     },
